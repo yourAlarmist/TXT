@@ -1,0 +1,1 @@
+Skills that will be learned from Vadim's curses: SQL, Postman, Git, Terminal, XCode, Dev Tools.
