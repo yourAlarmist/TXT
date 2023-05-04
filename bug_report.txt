@@ -1,1 +1,14 @@
-
+chat: 212
+Severity: Critical
+Environment: Win 10 home Chrome 112; iPhone Xs 16.4.1. Safari; Win 10 pro Chrome 112; Win 11 pro Chrome 112; iPhone 11 16.4.1 Safari; macOS 13.3.1 Safari 16.4
+Ttile: The button [Trade], in page[Partnership programme], after click, transfers to the main page; Sign up form  isn't opened after clicking to the button [Trade] in menu item  [ Partnership programme]
+Steps: 1. Navigate to capital.com; 2. Hover over menu section [More]; 3. Click menu item [ Partnership programme]; 4. Click button [Trade]
+Expected Result: Sign up form is opened
+Actual Result: Redirects to the main page
+Link: https://drive.google.com/file/d/1BPg4hoytk7yXE5Cz6HVcI2yDEfi37qDd/view
+License: ASIC; CYSEC
+Role: unregistered; unauthorized
+Bug started: @Solvit08
+Bug reproduced: @mranolegprivate @djonnydil @krakodaf @ida_quetzalcoatl @annagvozdeva
+Comment reviewed: Поправила сама, потому что этот баг смахивает на критический
+Bug reviewed: @AlenaaaV
