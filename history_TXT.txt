@@ -1,0 +1,26 @@
+  500  git clone https://github.com/yourAlarmist/TXT.git
+  501  cd TXT
+  502  echo "" > new.txt
+  503  git status
+  504  git add new.txt
+  505  git status
+  506  git commit -m "creating new file new.txt"
+  507  git status
+  508  git push
+  509  echo "Hi, my name is Viktar Buzyuk, I am 33 years old.  I have a cat, her name is Bonya. The desired salary is 1500." > new.txt
+  510  git status
+  511  git commit -a -m "changed file new.txt"
+  512  git status
+  513  git push
+  514  touch preferences.txt
+  515  echo "My favorite movie is Avatar, my favorite TV series is House MD, my favorite food is meat, my favorite time of year is spring, the country I would like to visit is Montenegro." > preferences.txt
+  516  echo "Skills that will be learned from Vadim's curses: SQL, Postman, Git, Terminal, XCode, Dev Tools." > skills.txt
+  517  git status
+  518  git add .
+  519  git commit -m "creating 2 files preferences.txt and skills.txt"
+  520  git status
+  521  git push
+  522  git pull
+  523  history
+  524  history 24 > history_TXT.txt
+  525  history 26 > history_TXT.txt
